@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+.App{ font-family: "Roboto", sans-serif;}
+
+/* button styling */
+.App > button{
+  background-color:#E8E8E8;
+  border: none;
+  padding: 0.6rem 1rem;
+}
+.App > button:hover{
+  cursor: pointer;
+}
+
+
+
